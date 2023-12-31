@@ -1,0 +1,23 @@
+/* Navbarv.css (or include it in your main CSS file) */
+.navbar {
+    background-color: #ffffff;
+    /* Background color for the navbar */
+}
+
+.nav-link {
+    color: #333;
+    /* Link text color */
+}
+
+/* Customize further as needed */
+
+.sign-in{
+    margin-left: 750px;
+    border-radius: 10%;
+    width: 75px;
+}
+.register {
+    margin-left: 10px;
+    border-radius: 10%;
+    width: 75px;
+}
