@@ -1,4 +1,4 @@
-## sih_application
+## Police Feedback System
 
 Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
