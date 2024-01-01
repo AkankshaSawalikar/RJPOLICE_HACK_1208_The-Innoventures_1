@@ -1,6 +1,9 @@
 ## Police Feedback System
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
+## Overview
+
+The Police Feedback System is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It aims to encourage open communication, respect privacy, and allow a broader representation of community voices to contribute to improving policing practices.
+We are taking feedback from users and classifying that data by using Machine Learning model as as per that we are creating results (which we will show by Pictorial representation) and that result would be analyzed and seen by the respective near by police departments(near by  police departments).
 
 ## Description
 
@@ -9,10 +12,40 @@ Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 - The application is generated in JavaScript.
 
 ## Pre-requisites
-
+Before running the application, make sure you have the following installed:
+- MongoDB
 - [git](https://git-scm.com/) - v2.13 or greater
 - [NodeJS](https://nodejs.org/en/) - v16 or greater
 - [npm](https://www.npmjs.com/) - v6 or greater
+
+## Features
+
+- **Home Page:** Provides an introduction to the Police Feedback System.
+- **Feedback Form Page:** Allows users to submit feedback about policing practices.
+- **Login Page:** Facilitates user authentication.
+
+
+## Technologies Used
+
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **User Authentication:** JSON Web Tokens (JWT)
+- **Machine Learning Model:** Classification Model
+
+  
+## Steps for Installation :
+step 1 :git clone https://github.com/AkankshaSawalikar/RJPOLICE_HACK_1208_The-Innoventures_1.git
+
+step 2: Move into your repository
+cd RJPOLICE_HACK_1208_The-Innoventures_1
+
+Step 3: To install the dependencies use:
+npm install
+
+Step 4: Run the project
+npm start
+
 
 ## Running in dev environment
 
@@ -24,6 +57,10 @@ Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
 This file contains various environment variables that you can configure.
 
+
+
+
+  
 ## Folder Structure
 
 ```
